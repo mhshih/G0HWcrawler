@@ -4,7 +4,7 @@
 """
 import requests
 from bs4 import BeautifulSoup
-#import jieba
+import jieba
 from string import punctuation, ascii_letters, digits
 import nltk
 
